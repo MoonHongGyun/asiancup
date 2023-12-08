@@ -1922,3 +1922,4 @@ void printtext(char *size, int num)
         printf("%s", size);
     fclose(text_rfp);
 }
+// git_pull test
