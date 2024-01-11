@@ -51,3 +51,4 @@ int main()
         cout << strlen(pnum) << std::endl;
     }
 }
+dddd
